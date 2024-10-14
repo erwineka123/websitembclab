@@ -24,7 +24,7 @@ const Hero: React.FC = () => {
   }, [currentIndex]);
 
   return (
-    <div className="relative pt-[125px]">
+    <div className="relative pt-16">
       <h1 className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-10 text-[#d9d9d9] text-6xl font-extrabold text-shadow-lg text-center">
         We Attack
         <br />

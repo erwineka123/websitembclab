@@ -2,7 +2,7 @@
 import React, { useEffect } from "react";
 // import AOS from "aos";
 import "aos/dist/aos.css";
-import { id } from "../Anggota/[id]";
+import { id } from "./[id]";
 
 // const Pembina: React.FC = () => {
 //   useEffect(() => {

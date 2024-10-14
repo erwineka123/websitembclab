@@ -4,11 +4,11 @@ import Image from "next/image";
 import { id } from "./[id]";
 import Link from "next/link";
 
-function Divisi() {
+function Projek() {
   return (
     <>
       <h1 className="text-white text-3xl font-extrabold my-10 p-5 text-center">
-        Divisi Kami
+        Proyek Kami
       </h1>
       <div className="gap-3 overflow-x-auto scrollbar-hide">
         <div className="grid grid-cols-4 space-x-4">
@@ -43,4 +43,4 @@ function Divisi() {
   );
 }
 
-export default Divisi;
+export default Projek;
